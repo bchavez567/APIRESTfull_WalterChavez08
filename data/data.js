@@ -48,3 +48,5 @@ const products = [
         image: 'https://sc04.alicdn.com/kf/H5794a667d8844b0592a7a76e8724842bt.jpg'
         },
 ];
+
+module.exports = products;
